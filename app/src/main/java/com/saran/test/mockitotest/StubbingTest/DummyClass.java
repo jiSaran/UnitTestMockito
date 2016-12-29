@@ -7,6 +7,7 @@ package com.saran.test.mockitotest.StubbingTest;
 public class DummyClass {
     private String name;
 
+
     public void setName(String name) {
         this.name = name;
     }
